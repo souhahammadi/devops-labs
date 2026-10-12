@@ -1,0 +1,133 @@
+1
+True
+2
+1
+9
+6.6
+
+
+6
+p y n
+python1 pythonpython
+Exception: 'str' object does not support item assignment
+S:python,S1:Zython
+['pyt', 'on']
+PYthon
+PYTHON
+python
+'aa,bb,ccc,dd\n'
+life is short
+hello world 12
+
+
+['cat', 'dog', 'monkey', 'fish']
+['cat', 'dog', 'monkey']
+['cat', 'fish', 'dog', 'monkey']
+['cat', 'dog', 'monkey']
+(0, 'cat')
+(1, 'dog')
+(2, 'monkey')
+['catcat', 'dogdog', 'monkeymonkey']
+[12, 32, 45, 55]
+[55, 45, 32, 12]
+
+
+(1, 2, 3, 4, 5)
+(42,) <class 'tuple'>
+Exception: 'tuple' object does not support item assignment
+(12, 45, 32, 55, [2, 0, 3])
+
+{'food': 'Spam', 'quantity': 4, 'color': 'pink'}
+{'food': 'Spam', 'quantity': 4, 'color': 'red'}
+KeyError: 'name'
+None
+The key value does not exist.
+dict_keys(['food', 'quantity', 'color'])
+dict_values(['Spam', 4, 'red'])
+dict_items([('food', 'Spam'), ('quantity', 4), ('color', 'red')])
+{}
+
+False
+{'Techs', 'Data', 'Prince'}
+3
+{'Techs', 'Prince'}
+[1, 3, 5]
+frozenset({'Techs', 'Prince'})
+
+Dict1:{'name': 'lee', 'age': 89, 'num': [1, 6, 8]}
+ Dict_copy:{'name': 'lee', 'age': 89, 'num': [1, 6, 8]}
+ Dict_dcopy:{'name': 'lee', 'age': 89, 'num': [1, 2, 8]}
+ Dict2:{'name': 'lee', 'age': 89, 'num': [1, 6, 8]}
+
+
+95.0 -> Excellent
+85.0 -> good
+70.0 -> medium
+30.0 -> bad
+150.0 -> Enter a correct score.
+abc -> Enter a correct score.
+
+
+1 * 1 =  1 	 
+2 * 1 =  2 	 2 * 2 =  4 	 
+3 * 1 =  3 	 3 * 2 =  6 	 3 * 3 =  9 	 
+4 * 1 =  4 	 4 * 2 =  8 	 4 * 3 = 12 	 4 * 4 = 16 	 
+5 * 1 =  5 	 5 * 2 = 10 	 5 * 3 = 15 	 5 * 4 = 20 	 5 * 5 = 25 	 
+6 * 1 =  6 	 6 * 2 = 12 	 6 * 3 = 18 	 6 * 4 = 24 	 6 * 5 = 30 	 6 * 6 = 36 	 
+7 * 1 =  7 	 7 * 2 = 14 	 7 * 3 = 21 	 7 * 4 = 28 	 7 * 5 = 35 	 7 * 6 = 42 	 7 * 7 = 49 	 
+8 * 1 =  8 	 8 * 2 = 16 	 8 * 3 = 24 	 8 * 4 = 32 	 8 * 5 = 40 	 8 * 6 = 48 	 8 * 7 = 56 	 8 * 8 = 64 	 
+9 * 1 =  9 	 9 * 2 = 18 	 9 * 3 = 27 	 9 * 4 = 36 	 9 * 5 = 45 	 9 * 6 = 54 	 9 * 7 = 63 	 9 * 8 = 72 	 9 * 9 = 81 	 
+
+
+1
+2
+End the current loop.
+4
+End the current big loop.
+
+
+Hello, Python.
+hello, world!
+Greetings, world!
+hello, Huawei!
+Greetings, universe!
+1
+2
+(3, 4, 5, 6)
+{'x': 10, 'y': 11}
+11
+
+
+Python
+ file operation
+python file operation
+
+
+The second digit cannot be 0.
+Captured exception: invalid literal for int() with base 10: 'hello'
+Code without exception: 5.0
+Code executed at last, regardless of exception
+Code with exception: division by zero
+Code executed at last, regardless of exception
+
+Dog is now sitting
+Dog rolled over!
+Husky
+
+
+2
+Husky is now sitting
+Husky rolled over!
+
+
+Husky
+2
+AttributeError: 'Dog3' object has no attribute '__age'
+
+Larry
+3
+
+
+woo
+Dog shouts
+barking
